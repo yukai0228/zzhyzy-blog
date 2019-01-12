@@ -3,15 +3,14 @@
   "version": "0.1.0",
   "description": "走在回忆之外的博客",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "devDependencies": {
     "date-fns": "^2.0.0-alpha.11",
     "lodash": "^4.17.10",
-    "vuepress": "^1.0.0-alpha.31"
+    "vuepress": "^0.14.8"
   },
   "dependencies": {
-    "vuepress-theme-ktquez": "^0.2.13"
   }
 }
