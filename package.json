@@ -4,7 +4,7 @@
   "description": "走在回忆之外的博客",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "date-fns": "^2.0.0-alpha.11",
