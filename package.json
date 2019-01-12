@@ -8,8 +8,8 @@
   },
   "devDependencies": {
     "date-fns": "^2.0.0-alpha.11",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "vuepress": "^1.0.0-alpha.31"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
