@@ -11,5 +11,7 @@
     "lodash": "^4.17.10",
     "vuepress": "^1.0.0-alpha.31"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vuepress-theme-ktquez": "^0.2.13"
+  }
 }
